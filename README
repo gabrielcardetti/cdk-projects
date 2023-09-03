@@ -1,0 +1,11 @@
+# AWS CDK Projects
+
+The main idea of this repo is to have a place to store all the projects I'm working on using the AWS CDK.
+
+## Projectos
+
+### URLS zip s3
+
+This project consiste in two lambdas functions that recibe a list of urls, download the files and zip them and upload the zip file to a s3 bucket after that the lamda send a email with the url of the zip file.
+
+
